@@ -1,2 +1,2 @@
-# Dataaspecialist
+# Dataspecialist
 This is my first Git repository
